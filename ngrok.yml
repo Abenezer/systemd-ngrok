@@ -1,5 +1,5 @@
 version: "2"
-region: us
+region: ap
 authtoken: 1aC1NfKQP3jHyTnppTpJ160lkzw_5TTMfyX3rLDTWwLFdk2Tn
 tunnels:
     web:
